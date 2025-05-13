@@ -10,4 +10,19 @@ Contrast this with someone like Bill Gates, whose early career success with Micr
 
 #
 
+| Name                  | Field               | Key Contributions                                                                 | Life Worth Highlights                                                                                 |
+|-----------------------|---------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Malala Yousafzai      | Education/Activism  | Advocacy for girls' education, Nobel Peace Prize recipient                         | Inspired global movement for educational equity, role model for youth resilience                      |
+| Elon Musk             | Technology/Space     | Tesla, SpaceX, Neuralink, renewable energy advocacy                                | Accelerated EV adoption, renewable energy shift, space exploration dreams                             |
+| Bill Gates            | Tech/Philanthropy   | Microsoft, global health initiatives via Gates Foundation                          | Polio eradication efforts, education and health reform, massive philanthropic influence               |
+| Greta Thunberg        | Environmentalism    | Climate activism, global youth mobilization                                        | Sparked worldwide environmental awareness and action                                                  |
+| Oprah Winfrey         | Media/Philanthropy  | Empowering media content, philanthropy, educational initiatives                    | Broke social barriers, fostered mental health discussions, inspired millions                          |
+| Muhammad Yunus        | Economics/Social Good | Founder of Grameen Bank, microfinance pioneer                                     | Lifted millions out of poverty through social business innovation                                     |
+| Jane Goodall          | Science/Conservation | Primate research, conservation activism                                            | Revolutionized understanding of animal behavior, lifelong environmental advocacy                      |
+| Nelson Mandela        | Politics/Justice    | Anti-apartheid leader, South Africa's first Black president                        | Reconciliation champion, global icon of peace and justice                                             |
+| Wangari Maathai       | Environmentalism    | Green Belt Movement, Nobel Peace Prize winner                                      | Reforestation and women's empowerment in Africa                                                       |
+| Fred Rogers           | Education/Media     | "Mister Rogers' Neighborhood," child development advocate                          | Fostered kindness, emotional intelligence, and safe emotional spaces for children                     |
+
+#
+
 [Life Worth](https://chatgpt.com/g/g-682393aad4048191955835ef04ab18db-life-worth)
