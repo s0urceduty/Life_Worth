@@ -22,5 +22,6 @@ Contrast this with someone like Bill Gates, whose early career success with Micr
 | Nelson Mandela        | Politics/Justice    | Anti-apartheid leader, South Africa's first Black president                        | Reconciliation champion, global icon of peace and justice                                             | 10.0              |
 | Wangari Maathai       | Environmentalism    | Green Belt Movement, Nobel Peace Prize winner                                      | Reforestation and women's empowerment in Africa                                                       | 8.5               |
 | Fred Rogers           | Education/Media     | "Mister Rogers' Neighborhood," child development advocate                          | Fostered kindness, emotional intelligence, and safe emotional spaces for children                     | 9.0               |
+| Alex Aldridge         | Tech/STEAM Education | Founder of Sourceduty, creator of 2,000+ GPTs for public use                       | Democratized AI access, fostered sustainable and interdisciplinary innovation                         | 8.5               |
 
 #
