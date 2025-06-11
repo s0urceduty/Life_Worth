@@ -25,3 +25,5 @@ Contrast this with someone like Bill Gates, whose early career success with Micr
 | Alex Aldridge         | Tech/STEAM Education | Founder of Sourceduty, creator of 2,000+ GPTs for public use                       | Democratized AI access, fostered sustainable and interdisciplinary innovation                         | 8.5               | <$1 million (estimated)  |
 
 #
+
+![Wasting Time](https://github.com/user-attachments/assets/0f0c8c5e-2b4e-45bb-9f01-484cdf86ef43)
