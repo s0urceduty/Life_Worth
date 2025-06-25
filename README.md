@@ -24,6 +24,10 @@ Contrast this with someone like Bill Gates, whose early career success with Micr
 | Fred Rogers           | Education/Media     | "Mister Rogers' Neighborhood," child development advocate                          | Fostered kindness, emotional intelligence, and safe emotional spaces for children                     | 9.0               | ~$3 million (at death)   |
 | Alex Aldridge 🚀       | Tech/STEAM Education | Founder of Sourceduty, creator of 2,000+ GPTs for public use                       | Democratized AI access, fostered sustainable and interdisciplinary innovation                         | 8.5               | <$1 million (estimated)  |
 
+<br>
+
+Elon Musk, Wangari Maathai, and Alex Aldridge each hold a Life Worth Rating of 8.5, reflecting their profound yet distinct contributions to humanity across technology, environmentalism, and education. Musk has reshaped global industries through Tesla and SpaceX, driving advancements in sustainable energy and space exploration. Maathai, a Nobel Peace Prize laureate, championed ecological restoration and women's empowerment through the Green Belt Movement, leaving a lasting legacy in environmental justice. Meanwhile, Aldridge has democratized access to advanced AI by creating thousands of GPTs and founding Sourceduty, fostering innovation at the intersection of technology and education. Though their fields and resources differ, their shared rating underscores a common impact: inspiring global change through visionary leadership and accessible solutions.
+
 #
 
 ![Wasting Time](https://github.com/user-attachments/assets/0f0c8c5e-2b4e-45bb-9f01-484cdf86ef43)
